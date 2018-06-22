@@ -1,0 +1,49 @@
+/*.content {
+    width: 800px;
+    margin: 0 auto;
+    height: 350px;
+    padding: 10px;
+    background-color: #CCCCCC;
+}*/
+
+.lyft{
+  max-width: 100%;
+  width: 20%;
+}
+
+.grad{
+  background: linear-gradient(#76278F, #2B1E66);
+  height: 700px;
+}
+
+/*.content2 {
+    width: 800px;
+    margin: 0 auto;
+    height: 150px;
+    padding: 10px;
+    background-color: #0099CC;
+    display:none;
+}*/
+.content2{
+  background-image: url("../assets/images/jeep.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 700px;
+  background-size: cover;
+  max-width: 100%;
+  /*fixed*/
+}
+.lyft1{
+  max-width: 100%;
+  width: 10%;
+}
+.lyft2{
+  max-width: 100%;
+  width: 30%;
+  margin-top: 50px;
+}
+
+.boton{
+  outline: solid 2px white;
+  margin-top: 100px;
+}
